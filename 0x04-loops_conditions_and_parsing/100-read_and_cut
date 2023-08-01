@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Displays the contents of the file `/etc/passwd`.
-# Only displays the username, user id, and user home directory path.
+# The contents of the file `/etc/passwd` are displayed.
+# Only the username, user id, and user home directory path are displayed.
 
 while IFS= read -r passwd;
 do

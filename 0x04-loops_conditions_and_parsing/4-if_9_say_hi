@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School" 10 times
-# for the 9th iteration, displays Best School and then Hi
+# This script is displaying "Best School" 10 times, as per requirement
 
 i=0
 while [ "$i" -lt "10" ]
